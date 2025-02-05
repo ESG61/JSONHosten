@@ -6,7 +6,7 @@
         "age": 118,
         "isActive": true,
         "birthDate": "1905-10-20",
-        "imageUrl": "images/800px-Galatasaray_Sports_Club_Logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/800px-Galatasaray_Sports_Club_Logo.png",
         "division": "Super Lig",
         "hobbies": ["Voetbaltraining", "Scouting", "Community-evenementen"],
         "clubDetails": {
@@ -24,7 +24,7 @@
         "age": 116,
         "isActive": true,
         "birthDate": "1907-05-03",
-        "imageUrl": "images/Fenerbahçe.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Fenerbahçe.svg.png",
         "division": "Super Lig",
         "hobbies": ["Wedstrijden analyseren", "Jeugdopleiding", "Evenementen organiseren"],
         "clubDetails": {
@@ -42,7 +42,7 @@
         "age": 120,
         "isActive": true,
         "birthDate": "1903-03-19",
-        "imageUrl": "images/BesiktasJK-Logo.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/BesiktasJK-Logo.svg.png",
         "division": "Super Lig",
         "hobbies": ["Wedstrijdvoorbereiding", "Sociale activiteiten", "Sponsorevenementen"],
         "clubDetails": {
@@ -60,7 +60,7 @@
         "age": 56,
         "isActive": true,
         "birthDate": "1967-08-02",
-        "imageUrl": "images/Trabzonspor_Amblem.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Trabzonspor_Amblem.svg.png",
         "division": "Super Lig",
         "hobbies": ["Talentontwikkeling", "Community-outreach", "Wedstrijdvoorbereiding"],
         "clubDetails": {
@@ -78,7 +78,7 @@
         "age": 33,
         "isActive": true,
         "birthDate": "1990-06-15",
-        "imageUrl": "images/İstanbul_Başakşehir_logo.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/İstanbul_Başakşehir_logo.svg.png",
         "division": "Super Lig",
         "hobbies": ["Technologische innovatie", "Data-analyse", "Jeugdprogramma's"],
         "clubDetails": {
@@ -96,7 +96,7 @@
         "age": 83,
         "isActive": true,
         "birthDate": "1940-02-28",
-        "imageUrl": "images/Adana_Demirspor_logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Adana_Demirspor_logo.png",
         "division": "Super Lig",
         "hobbies": ["Fansessies", "Talent scouting", "Lokaal sociaal werk"],
         "clubDetails": {
@@ -114,7 +114,7 @@
         "age": 56,
         "isActive": true,
         "birthDate": "1966-07-02",
-        "imageUrl": "images/Antalyaspor_logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Antalyaspor_logo.png",
         "division": "Super Lig",
         "hobbies": ["Strandactiviteiten", "Sponsorwerving", "Opleidingsprogramma's"],
         "clubDetails": {
@@ -132,7 +132,7 @@
         "age": 102,
         "isActive": true,
         "birthDate": "1921-01-01",
-        "imageUrl": "images/Kasimpasa_logo.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Kasimpasa_logo.svg.png",
         "division": "Super Lig",
         "hobbies": ["Jeugdtraining", "Sociale projecten", "Tactiek sessies"],
         "clubDetails": {
@@ -150,7 +150,7 @@
         "age": 75,
         "isActive": true,
         "birthDate": "1948-06-01",
-        "imageUrl": "images/Alanyaspor_logo.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Alanyaspor_logo.svg.png",
         "division": "Super Lig",
         "hobbies": ["Beach voetbal", "Community-evenementen", "Tactische trainingen"],
         "clubDetails": {
@@ -168,7 +168,7 @@
         "age": 56,
         "isActive": true,
         "birthDate": "1967-05-01",
-        "imageUrl": "images/Sivasspor-Logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Sivasspor-Logo.png",
         "division": "Super Lig",
         "hobbies": ["Talent scouting", "Sponsorontwikkeling", "Teamtraining"],
         "clubDetails": {
@@ -186,7 +186,7 @@
         "age": 113,
         "isActive": true,
         "birthDate": "1910-06-01",
-        "imageUrl": "images/Ankaragucu_logo.svg.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/Ankaragucu_logo.svg.png",
         "division": "Super Lig",
         "hobbies": ["Supporter evenementen", "Team dynamiek", "Lokaal jeugdvoetbal"],
         "clubDetails": {
@@ -204,7 +204,7 @@
         "age": 98,
         "isActive": true,
         "birthDate": "1925-06-14",
-        "imageUrl": "images/avor4h11n.png",
+        "imageUrl": "https://raw.githubusercontent.com/ESG61/JSONHosten/refs/heads/master/images/avor4h11n.png",
         "division": "Super Lig",
         "hobbies": ["Wedstrijdevenementen", "Community programma's", "Jeugdwedstrijden"],
         "clubDetails": {
